@@ -1,9 +1,6 @@
-console.log('hello');
-
 const input = document.getElementById("text1");
 const button = document.getElementById("button");
 let listMeteo = document.querySelector("#listeInfos")
-const dateMeteo = document.querySelector("#date")
 
 let url = 'http://api.openweathermap.org/data/2.5/weather?q=marseille&appid=ebbef056fabd1f5c3932576f5181de0c';
 const urlLdn = 'http://api.openweathermap.org/data/2.5/weather?q=londres&appid=ebbef056fabd1f5c3932576f5181de0c';

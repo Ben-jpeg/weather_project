@@ -7,8 +7,8 @@
 div {
     display: flex;
     justify-content: center;
-    margin-top: 22%;
-    margin-bottom: 10%;
+    margin-top: 9%;
+    margin-bottom: 8%;
 }
 
 li {
@@ -27,4 +27,11 @@ input {
 body {
     background: url(sky.jpg);
     background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-top: 130px;
 }
