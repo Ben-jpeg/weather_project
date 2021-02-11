@@ -35,3 +35,7 @@ h1 {
     text-align: center;
     margin-top: 130px;
 }
+
+#map {
+    height: 400px;
+}
