@@ -18,7 +18,3 @@ window.onload = function() {
     // Fonction d'initialisation qui s'exécute lorsque le DOM est chargé
     initMap();
 };
-
-
-// var lat = xlat;
-// var lon = xlong;
